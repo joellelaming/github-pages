@@ -1,4 +1,8 @@
 ---
-title: Welcome to my blog
+## Hello
+title: Joelle's page
+
+**This is bold text**
+
 ---
 
